@@ -132,7 +132,7 @@ y
 Superman
 ```
 
-![Superman-1](https://github.com/MAILabs-Edu-2024/ai-lab-1-knowledge-representation-3/assets/108530450/c18f705a-719a-4a06-8f17-66f357b2b725)
+![Superman-1](https://github.com/Dim0nMC/OnlineCinema/blob/main/img/Superman.png)
 
 Пример работы №2:
 ```
